@@ -1,0 +1,11 @@
+---
+slug: softcover_example
+filename: softcover_example
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2014
+uuid: 9b1a98f1-b175-4828-bae1-a1a06d7e9b42
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
